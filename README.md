@@ -1,7 +1,7 @@
 ### Hi there, I'm Patrick Sikes - aka [Screaming Goat Software][website] 👋
 
 [![Website](https://img.shields.io/website?label=ScreamingGoatSoftware.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.screaminggoatsoftware.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/patsikes?color=1DA1F2&logo=twitter&style=for-the-badge)](hhttps://twitter.com/patsikes)
+[![Twitter Follow](https://img.shields.io/twitter/follow/patsikes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/patsikes)
 
 ## I'm a Husband, Developer, and Entrepreneur!!
 
