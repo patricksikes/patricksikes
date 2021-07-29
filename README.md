@@ -5,8 +5,8 @@
 
 ## I'm a Husband, Developer, and Entrepreneur!!
 
-- 🔭 I’m currently working on: Onboarding at PwC and RVingHub.com
-- 🌱 I’m currently learning Python, SDK architecture & development
+- 🔭 I’m currently working on: looking for a perm .NET developer postion and building RVingHub.com
+- 🌱 I’m currently learning Python, MongoDb, GraphQL
 - 💬 Ask me about ASP.NET, .NET WebAPI MicroServices
 - 📫 How to reach me: www.ScreamingGoatSoftware.com or patricksikes at gmail dot com
 - ⚡ Fun fact: My hobbies are travel, woodturning (mostly making pens), playing with my laser engraver/cutter and arduino projects.
@@ -16,7 +16,7 @@
 ### Connect with me:
 
 [<img align="left" alt="screaminggoatsoftware.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!--[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
+<!--[<img align="left" alt="patricksikes | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
 [<img align="left" alt="patsikes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="patricksikes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!--[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
@@ -56,10 +56,7 @@
 
 ➡️ [more blog posts...](https://patricksikes.medium.com/)
 
----
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 
