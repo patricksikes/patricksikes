@@ -5,7 +5,7 @@
 
 ## I'm a Husband, Developer, and Entrepreneur!!
 
-- 🔭 I’m currently working on: looking for a perm .NET developer postion and building RVingHub.com
+- 🔭 I’m currently working on: building internal tools for Rooms To Go and building RVingHub.com
 - 🌱 I’m currently learning Python, MongoDb, GraphQL
 - 💬 Ask me about ASP.NET, .NET WebAPI MicroServices
 - 📫 How to reach me: www.ScreamingGoatSoftware.com or patricksikes at gmail dot com
