@@ -1,9 +1,6 @@
 ### Hi there, I'm Patrick Sikes - aka [Screaming Goat Software][website] 👋
 
-[![Website](https://img.shields.io/website?label=ScreamingGoatSoftware.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.screaminggoatsoftware.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/patsikes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/patsikes)
-
-## I'm a Husband, Developer, and Entrepreneur!!
+## I'm a Husband, Developer, and Entrepreneur
 
 - 🔭 I’m currently working on: building internal tools for Rooms To Go and building RVingHub.com
 - 🌱 I’m currently learning Python, MongoDb, GraphQL
@@ -15,11 +12,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="screaminggoatsoftware.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!--[<img align="left" alt="patricksikes | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
-[<img align="left" alt="patsikes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="patricksikes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!--[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
+<a href="http://www.screaminggoatsoftware.com"><img align="left" alt="screaminggoatsoftware.com" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://twitter.com/patsikes"><img align="left" alt="patsikes | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://linkedin.com/patsikes"><img align="left" alt="patricksikes | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
 
 <br />
 
