@@ -14,7 +14,7 @@
 
 <a href="http://www.screaminggoatsoftware.com"><img align="left" alt="screaminggoatsoftware.com" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://twitter.com/patsikes"><img align="left" alt="patsikes | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://linkedin.com/patsikes"><img align="left" alt="patricksikes | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/patsikes/"><img align="left" alt="patricksikes | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 
 <br />
